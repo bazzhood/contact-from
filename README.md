@@ -34,3 +34,4 @@ box-shadow: 0 1px 1px #CCC inset, 0 1px 0 #FFF;}
 <li><a href="#" class="btn-lg"><i class="fa fa-facebook"> <span class="network-name">Facebook</span></i></a></li>
 <li><a href="#" class="btn-lg"><i class="fa fa-youtube-play"> <span class="network-name">Youtube</span></i></a></li>
 </ul></div></form></div>
+https://bazzhood.blogspot.com/2020/01/contact-form-in-blogger.html
